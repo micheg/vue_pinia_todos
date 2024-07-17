@@ -11,6 +11,10 @@ To install just clone and do:
 
     npm install
 
+talliwind init:
+
+    npx tailwindcss init -p
+
 and then:
 
     npm run dev
